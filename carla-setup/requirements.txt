@@ -1,0 +1,3 @@
+pygame
+eclipse-zenoh
+carla==0.9.15
